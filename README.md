@@ -1,41 +1,41 @@
 # Calculator
 
-A fully functional and responsive Calculator web application created using **HTML**, **CSS**, and **JavaScript**.
+A fully functional and responsive **Calculator** web application created using **HTML**, **CSS**, and **JavaScript**.
 
 ## ✨ Features
-- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
+- Perform basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), and Division (÷).
 - Percentage (%) calculation.
-- Clear all (AC) and clear single character (Backspace) functionalities.
-- Responsive layout that adapts to different devices.
-- Font Awesome icons for better UI (like the clear/backspace button).
+- Clear all (AC) and delete single character (Backspace) functionalities.
+- Smooth, responsive layout for all screen sizes.
+- Font Awesome icons for enhanced UI (backspace button).
 
 ## 🚀 Getting Started
 To run the project locally:
 
 1. **Clone** this repository or **download** the ZIP file.
-2. Open the `index.html` file in any web browser.
+2. Open the `index.html` file directly in any modern web browser.
 
 💻 **Live Demo**:  
-[https://exampleusername.github.io/simple-calculator/](https://exampleusername.github.io/simple-calculator/)  
-*(Replace with your actual GitHub Pages link)*
+[https://exampleusername.github.io/Calculator/](https://exampleusername.github.io/Calculator/)  
+*(Replace `exampleusername` and `Calculator` with your actual GitHub username and repository name.)*
 
 ## 🛠️ Technologies Used
-- **HTML5** – for structure.
-- **CSS3** – for styling and responsive design.
-- **JavaScript** – for calculator logic and user interactions.
-- **Font Awesome** – for using icons.
+- **HTML5** – Structuring the app.
+- **CSS3** – Styling and layout.
+- **JavaScript** – Calculator logic and event handling.
+- **Font Awesome** – For icons.
 
 ## 🚀 Deployment
-Deploy easily using GitHub Pages:
+Easily deploy on GitHub Pages:
 
-1. Create a new GitHub repository and push your project code to it.
-2. Go to the repository's **Settings** → **Pages**.
-3. Under **Source**, select the branch (usually `main`).
-4. Your project will be live at:  
-   `https://yourusername.github.io/your-repository-name/`
+1. Create a GitHub repository and push your project code.
+2. Go to **Settings** → **Pages**.
+3. Under **Source**, select the branch (like `main`) and save.
+4. Your app will be live at:  
+   `https://yourusername.github.io/Calculator/`
 
-Example:  
-[https://yudhiangra.github.io/simple-calculator/](https://yudhiangra.github.io/simple-calculator/)
+Example link:  
+[https://yudhiangra.github.io/Calculator/](https://yudhiangra.github.io/Calculator/)
 
 ## 👨‍💻 Developer
-Developed by **Yudhi Angra** during the front-end learning journey.
+Developed by **Yudhi Angra** during the journey of learning front-end development.
